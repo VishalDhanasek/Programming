@@ -1,3 +1,8 @@
+/* A program to check if strings are rotation of each other or not
+   Example:
+   INPUT: ABCDE, DEABC
+   OUTPUT: Second string is a rotation of first string */
+
 #include <stdio.h>  
 #include <string.h>  
    
